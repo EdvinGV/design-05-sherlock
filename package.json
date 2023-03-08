@@ -1,0 +1,16 @@
+{
+  "name": "5-dizainas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "d5": "dead-server --host=localhost --port=5050"
+  },
+  "keywords": [],
+  "author": "Edvinas <edvingvozdovic@gmail.com> (https://github.com/EdvinGV)",
+  "license": "MIT",
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
